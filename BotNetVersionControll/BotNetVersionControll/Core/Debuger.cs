@@ -1,4 +1,4 @@
-﻿namespace BotNetVersionControll.Core
+﻿namespace BotNetVersionControl.Core
 {
     public enum ETypeLog
     {
